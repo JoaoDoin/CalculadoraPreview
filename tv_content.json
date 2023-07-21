@@ -1,0 +1,82 @@
+{
+    "Globo São Paulo": {
+      "Bom Dia São Paulo": 27316,
+      "Fantástico": 649900,
+      "Jornal Hoje": 243400,
+      "Bom Dia Brasil": 114200,
+      "SP1": 24875,
+      "SP2": 112730,
+      "Jornal Nacional": 852400,
+      "Jornal da Globo": 69436,
+      "Hora um da notícia": 9993,
+      "Encontro": 105100
+    },
+    "EPTV Ribeirão Preto": {
+      "Bom Dia Cidade": 1282,
+      "Jornal da EPTV 1ª Edição": 4050,
+      "Jornal da EPTV 2ª Edição": 9850
+    },
+    "EPTV Campinas": {
+      "Bom Dia Cidade": 2578,
+      "Jornal da EPTV 1ª Edição": 6164,
+      "Jornal da EPTV 2ª Edição": 20752
+    },
+    "EPTV Central": {
+      "Bom Dia Cidade": 576,
+      "Jornal da EPTV 1ª Edição": 1853,
+      "Jornal da EPTV 2ª Edição": 4437
+    },
+    "TV TEM Bauru e Marília": {
+      "Bom Dia Cidade": 925,
+      "TEM Notícias 1ª Edição": 2427,
+      "TEM Notícias 2ª Edição": 5412,
+      "Mais Você": 1298,
+      "Vale a Pena Ver de Novo": 1246
+    },
+    "TV Fronteira": {
+      "Bom Dia Fronteira": 534,
+      "Fronteira Notícias 1ª Edição": 1421,
+      "Fronteira Notícias 2ª Edição": 2456
+    },
+    "TV TEM São José do Rio Preto e Araçatuba": {
+      "TEM Notícias 1ª Edição": 3243
+    },
+    "TV TEM Sorocaba e Jundiaí": {
+      "G1 Notícia": 7258
+    },
+    "TV Tribuna de Santos": {
+      "Bom Dia Região": 1230,
+      "Jornal Tribuna 1ª Edição": 3449,
+      "Jornal Tribuna 2ª Edição": 9501,
+      "Tribuna Esporte": 2138
+    },
+    "Globo News": {
+      "Edição das 06h": 680,
+      "Edição da Meia-Noite": 3440,
+      "Edição 0": 3440,
+      "Edição 16": 995,
+      "Edição das 18": 3545,
+      "Conexão": 5740,
+      "Conexão Globo News": 5740,
+      "Em Ponto": 680,
+      "Globo News Mais": 760,
+      "Edição das 20h": 3830,
+      "Edição do Meio-Dia": 810,
+      "Edição das 15": 810,
+      "Em Pauta": 4180,
+      "Edição das 08h": 680,
+      "Edição das 07h": 680
+    },
+    "SporTV 2": {
+      "Superliga B De Vôlei Feminino": 12020
+    },
+    "TV Diário": {
+      "Bom Dia Diário": 627.75,
+      "Diário TV 1ª Edição": 1512,
+      "Diário TV 2ª Edição": 2892
+    },
+    "SBT Interior": {
+      "SBT Interior 1ª Edição": 1824,
+      "SBT Interior 2ª Edição": 5968.85
+    }
+}
