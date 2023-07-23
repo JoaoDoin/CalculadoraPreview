@@ -256,5 +256,56 @@
       },
       "TV Claret": {
         "RC Notícias": 520
+      },
+      "Jovem Pan": {
+        "JP News": 6825
+      },
+      "TV Rede Família": {
+        "Tá No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03
+      },
+      "Rede Família": {
+        "Ta No Ar Campinas": 2000,
+        "RF News": 2500,
+        "Reportagens Especiais": 3500.03
+      },
+      "TV Canal 4 Marília": {
+        "4 Notícias": 1200
+      },
+      "TV Cidade Marília": {
+        "Ponto de Vista": 1200
+      },
+      "TV Gazeta": {
+        "Jornal da Gazeta": 19500
+      },
+      "TV Canção Nova": {
+        "Canção Nova Notícias": 37000
+      },
+      "STVI WEBTV": {
+        "STVI NO AR": 1800
+      },
+      "TV Prevê": {
+        "Diário do Brasil": 2427
+      },
+      "TV Câmara Bauru": {
+        "Espaço Aberto": 1200
+      },
+      "TV Câmara São Paulo": {
+        "Espaço Aberto": 320
+      },
+      "TV Paraguaçu": {
+        "Paraguaçu Paulista": 1200
+      },
+      "Vale TV": {
+        "Jornal do Meio-Dia": 2587,
+        "Cidade News": 1480
+      },
+      "Rede Alto Tietê TV": {
+        "Alto Tietê News": 3500,
+        "Rede Alto Tietê News": 3500
+      },
+      "Rede Brasil": {
+        "Brasil News": 4200
       }
 }
