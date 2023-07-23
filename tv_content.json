@@ -214,9 +214,25 @@
         "Jornal da Thathi": 11169
       },
       "CNN Brasil": {
-        "Agora CNN": 1509,
-        "CNN Novo Dia": 2324,
-        "Novo Dia": 664,
-        "CNN 360°": 11169
+        "Agora CNN": 2520,
+        "CNN Novo Dia": 3180,
+        "Novo Dia": 3180,
+        "CNN 360°": 7200,
+        "Visão CNN": 4200,
+        "Live CNN": 3870,
+        "Jornal da CNN": 14400,
+        "CNN Breaking News": 9600,
+        "CNN Brasil": 9600
+      },
+      "Santa Cecília TV": {
+        "Ponto de Vista": 2520,
+        "Caderno Regional": 3180,
+        "ACS na TV": 3180,
+        "Hora Geral": 7200,
+        "Bom Dia Cidades": 4200,
+        "OAB no Ar": 3870,
+        "Porto & Negócio": 14400,
+        "CNN Breaking News": 9600,
+        "CNN Brasil": 9600
       }
 }
