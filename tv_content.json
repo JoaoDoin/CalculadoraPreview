@@ -75,8 +75,33 @@
       "Diário TV 1ª Edição": 1512,
       "Diário TV 2ª Edição": 2892
     },
+    "SBT RP": {
+      "SBT Verdade": 2300
+    },
+    "SBT News": {
+      "SBT News na TV": 34530
+    },
     "SBT Interior": {
       "SBT Interior 1ª Edição": 1824,
       "SBT Interior 2ª Edição": 5968.85
-    }
+    },
+    "SBT": {
+        "Programa do Ratinho": 114388.2,
+        "Primeiro Impacto": 24097.5,
+        "SBT Brasil": 184945.77,
+        "Repórter SBT": 115025.4
+      },
+      "SBT Central": {
+        "Noticidade": 1158.15,
+        "Noticidade Manhã": 1158.15,
+        "Primeiro Impacto": 1158.15
+      },
+      "VTV Litoral": {
+        "VTV da Gente": 3176,
+        "Jornal da VTV": 5110.4
+      },
+      "VTV Campinas": {
+        "VTV da Gente": 3176,
+        "Jornal da VTV": 5110.4
+      }
 }
