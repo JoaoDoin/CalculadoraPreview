@@ -117,9 +117,106 @@
         "Band Notícias": 114388.2
       },
       "Band Mais Campinas": {
-        "Band Cidade 1ª Edição": 4708,
-        "Band Cidade 2ª Edição": 5403,
-        "Brasil Urgente": 5196,
-        "Band Notícias": 114388.2
+        "Acontece": 2762,
+        "Band Cidade 2ª Edição": 7958,
+        "Bora SP": 1823
+      },
+      "Band São Paulo": {
+        "Prêmio Band Cidades Excelentes": 401996,
+        "Bora SP": 7848,
+        "Brasil Urgente": 30196,
+        "Jornal da Band": 79597,
+        "Bora Brasil": 4559,
+        "Jornal da Noite": 28397,
+        "Boa Tarde São Paulo": 27451,
+        "Olhar do Repórter": 12390,
+        "+INFO": 23757,
+        "Melhor da Tarde": 27451,
+        "1º Jornal": 7029
+      },
+      "Band News": {
+        "Manhã Band News": 1059.6,
+        "Band News no Meio do Dia": 1059.6,
+        "Tarde Band News": 567,
+        "Jornal da Noite": 1199.6,
+        "Madrugada Band News": 578.2,
+        "Jornal Band News - Edição da Noite": 578.2,
+        "Jornal BandNews 1º edição": 486,
+        "Fim de Semana BandNews": 1259.2
+      },
+      "Record TV Interior SP": {
+        "Balanço Geral": 2505,
+        "Cidade Alerta Interior": 2463,
+        "SP Record": 2505
+      },
+      "Record TV Paulista": {
+        "Balanço Geral": 2329
+      },
+      "Record TV Litoral / Vale": {
+        "Balanço Geral Litoral": 2656,
+        "Visita na Record": 2656,
+        "SP Record": 5626
+      },
+      "Record São Paulo": {
+        "Balanço Geral Manhã": 17070,
+        "Cidade Alerta": 42060,
+        "Fala Brasil": 50260,
+        "Hoje em Dia": 36990,
+        "Jornal da Record": 260050,
+        "Domingo Espetacular": 247020,
+        "Balanço Geral": 35560
+      },
+      "Record TV Rio Preto": {
+        "Balanço Geral": 2711,
+        "SP Record": 3716
+      },
+      "Record News": {
+        "Hora News": 50260,
+        "News 19 Horas": 22000,
+        "Alerta Brasil": 6450,
+        "Link": 6450,
+        "Conexão Record News": 7000
+      },
+      "TV Cultura": {
+        "Jornal da Tarde": 5360,
+        "Esta Manhã": 3920,
+        "Jornal da Cultura": 29470,
+        "Entrelinhas": 1568,
+        "Repórter Cultura": 5383
+      },
+      "TV Cultura Litoral": {
+        "CAFÉ DA MANHÃ": 5334
+      },
+      "RedeTV!": {
+        "RedeTV! News": 4082.04,
+        "Brasil que Faz": 1850.82,
+        "Leitura Dinâmica": 1643.76,
+        "Vou te contar": 1986.9
+      },
+      "TV Thathi": {
+        "Thathi Repórter": 1400,
+        "Thathi Cidade": 2587,
+        "Larga Brasa": 1365,
+        "Hora da Verdade": 1800,
+        "Jornal NovaBrasil": 1700,
+        "Estúdio Thathi": 1619
+      },
+      "TV Thathi Record Campinas": {
+        "Balanço Geral": 2879.4,
+        "Balanço Geral Manhã": 1469.4,
+        "Cidade Alerta": 3780,
+        "Jornal da TV Thathi": 12473
+      },
+      "TV Thathi Band Litoral": {
+        "Thathi Cidade": 1509,
+        "Litoral Urgente": 2324,
+        "Band Litoral": 664,
+        "Jornal da Thathi": 11169
+      },
+      "CNN Brasil": {
+        "Agora CNN": 1509,
+        "CNN Novo Dia": 2324,
+        "Novo Dia": 664,
+        "CNN 360º": 11169
       }
 }
