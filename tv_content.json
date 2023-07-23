@@ -225,14 +225,36 @@
         "CNN Brasil": 9600
       },
       "Santa Cecília TV": {
-        "Ponto de Vista": 2520,
-        "Caderno Regional": 3180,
-        "ACS na TV": 3180,
-        "Hora Geral": 7200,
-        "Bom Dia Cidades": 4200,
-        "OAB no Ar": 3870,
-        "Porto & Negócio": 14400,
-        "CNN Breaking News": 9600,
-        "CNN Brasil": 9600
+        "Ponto de Vista": 2500,
+        "Caderno Regional": 3600,
+        "ACS na TV": 2200,
+        "Hora Geral": 2700,
+        "Bom Dia Cidades": 2200,
+        "OAB no Ar": 2200,
+        "Porto & Negócio": 2800,
+        "Alta Qualidade": 4900
+      },
+      "TV Osasco": {
+        "TV Cioeste": 1600
+      },
+      "Alpha Channel TV": {
+        "Alpha Channel News": 1750
+      },
+      "TV Rede Vida": {
+        "MATUTINO": 12000,
+        "VESPERTINO": 25900,
+        "NOTURNO": 37000
+      },
+      "STZ TV": {
+        "STZ Noticias": 562.5
+      },
+      "RIT TV": {
+        "Jornal Das 13h00": 10066.7
+      },
+      "Terraviva": {
+        "Dia Dia Rural": 1226
+      },
+      "TV Claret": {
+        "RC Notícias": 520
       }
 }
